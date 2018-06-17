@@ -1,5 +1,5 @@
 
-# ui.R
+# ui.R Code
 
 library(shiny)
 options(shiny.deprecation.messages=FALSE)
@@ -208,7 +208,7 @@ tabPanel(title="Results", value="Results",
            
          )),
 
-#Third (final) tab panel created
+#Final tab panel created
 
 tabPanel(title="About The App",
          h2("WEB APP FOR YOUR HEALTH AND FITNESS WELCOMES YOU...",style = "font-family: 'Lobster', cursive;
@@ -237,7 +237,7 @@ tabPanel(title="About The App",
 ))
 
 
-# server.R
+# server.R Code
 
 suppressWarnings(library(ggplot2))
 
