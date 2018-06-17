@@ -18,7 +18,7 @@ span(
   a("Saurabh Yadav", href = "https://www.linkedin.com/in/saurabhyadav789"),
   HTML("&bull;"),
   span("Code available on"),
-  a("GitHub", href = ""),
+  a("GitHub", href = "https://github.com/saurabhyadav789/WebAppForHealthAndFitness"),
   br(),
   
   span("June 13, 2018")
