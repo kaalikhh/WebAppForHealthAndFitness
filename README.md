@@ -7,4 +7,5 @@ Once you have finished entering all the details required in the 'Enter Your Deta
 The second tab under result section, 'Summary', offers feedback on your entered health information in different categories: 'About You','Daily Activities Level', 'Everyday, how many hours do you spend in following activities:','Tell us about your daily eating: ','Calories Consumed from various meal of the day' and 'Your Mental Health'.
 
 We hope you have found this app informative and helpful!
+
 Good luck for your health and fitness.
