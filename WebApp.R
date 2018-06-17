@@ -99,7 +99,7 @@ fluidRow(column(6,radioButtons("checkGroup2",
                                                        choices = list("0-1" = 1, "2-4" = 2,
                                                                       "5-7" = 3, "8-10"=4), selected = 3),width=5)),
             
-         helpText(h2(a("To calculate the calories consumed for each meal, go through this link.",target="_blank",href="https://caloriecontrol.org/healthy-weight-tool-kit/food-calorie-calculator/")),style = "font-family: 'Lobster', bold;
+         helpText(h2(a("To calculate the calories consumed for each meal, go through this link.",target="_blank",href="https://www.webmd.com/diet/healthtool-food-calorie-counter")),style = "font-family: 'Lobster', bold;
                                           font-weight: 500; line-height: 1.1;color:brown"),
          fluidRow(
            column(sliderInput("slider1", label = h4("Calories Consumed for Breakfast",style="font-family: 'Bangers';color:black"),
