@@ -2,7 +2,7 @@
 With this app you can evaluate your health and fitness by keeping track of your diet and exercise. You can plan your diet according to the calorie needed per day.
 
 Here is the link for the web application. Just go throught the link, fill the details and check your Health & Fitness :) 
-https://saurabhyadav.shinyapps.io/WebApplication/
+<https://saurabhyadav.shinyapps.io/WebApplication/>
 
 Click on the 'Enter Your Details' tab. Now, you will be required to fil the necessary informationrelated to your health and fitness. If you are not sure about your weight and the number of calories you have consumed from various meal, link is provided below the boxes. There are five sections-- 'About You','Daily Activities Level', 'Everyday, how many hours do you spend in following activities:','Tell us about your daily eating: ','Calories Consumed from various meal of the day' and 'Your Mental Health'.
 
