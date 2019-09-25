@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b9eac124fab94e6491459541dadb0e0d)](https://www.codacy.com/manual/saurabhyadav789/WebAppForHealthAndFitness?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=saurabhyadav789/WebAppForHealthAndFitness&amp;utm_campaign=Badge_Grade)
+
 # Web App For Health And Fitness
 With this app you can evaluate your health and fitness by keeping track of your diet and exercise. You can plan your diet according to the calorie needed per day.
 
